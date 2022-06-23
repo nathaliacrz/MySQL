@@ -21,7 +21,7 @@ SELECT * FROM tb_funcionarios WHERE salario > 2000;
 SELECT * FROM tb_funcionarios WHERE salario < 2000;
 
 
-INSERT INTO tb_funcionarios(nome, salario, setor, matricula)VALUES("Wan", 10000.50,"Tecnologia",04);
+INSERT INTO tb_funcionarios(nome, salario, setor, matricula)VALUES("Lea", 1500.50,"Contabilidade",05);
 
 UPDATE tb_funcionarios
 SET nome = "Marcelo"
